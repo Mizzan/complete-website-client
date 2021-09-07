@@ -1,0 +1,10 @@
+.order-checkout {
+  max-width: 900px;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+.checkout-btn {
+  float: right;
+  clear: right;
+}

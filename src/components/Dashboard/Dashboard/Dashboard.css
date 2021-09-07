@@ -1,0 +1,18 @@
+.sidebar {
+  background-image: linear-gradient(40deg, #3061ff, #f5b133);
+  position: fixed;
+  color: #3061ff;
+  font-weight: bold;
+}
+
+.sidebar p {
+  padding: 10px;
+  cursor: pointer;
+}
+
+.sidebar p:hover {
+  border: 2px solid tomato;
+  background-color: #fff;
+  border-radius: 6px;
+  transition: all 0.5s;
+}

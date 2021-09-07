@@ -1,0 +1,18 @@
+.details {
+  font-weight: 600;
+  font-size: 20px;
+  text-transform: capitalize;
+  padding: 10px;
+  box-shadow: 1px 1px 5px rgba(0, 0, 0, 0.9);
+  border-radius: 20px;
+}
+
+.manage-btn {
+  border: none;
+  color: #fff;
+  background-color: rgb(243, 89, 97);
+  padding: 5px 20px;
+  border-radius: 8px;
+  font-size: 0.925em;
+  margin-left: 50px;
+}

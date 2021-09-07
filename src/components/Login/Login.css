@@ -1,0 +1,19 @@
+.login {
+  max-width: 500px;
+  margin: 0 auto;
+  border-radius: 20px;
+  margin-top: 30vh;
+  padding: 15px 25px;
+}
+
+.auth-button {
+  width: 100%;
+  text-align: center;
+  border: none;
+  font-weight: bold;
+  margin: 10px 0;
+  display: block;
+  padding: 10px 10px;
+  border-radius: 30px;
+  background-color: rgb(116, 244, 248);
+}
